@@ -13,13 +13,23 @@ header,footer {
      background-color: rgba(28,28,28,05);
 	 padding: 3%
 } 
+h1 {
+     font-size: 2em;
+}
 
-h1,h2,h3 {
+h2 {
+     font-size: 1.5em;
+}
+
+.title {
      color:rgb(255,255,255);
      text-align: center;
+     font-weight: bolder;
+     line-height: 2;
 }
 
 p {
      color:rgb(255,255,255);
+     line-height: 1.5;
      
 }
