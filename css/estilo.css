@@ -1,39 +1,45 @@
-body {
-     background-color:rgb(54,54,54);
-     font-family: Georgia, serif;
- }
-
-.container {
-     width: 80%;
-     margin-right: auto;
-     margin-left:  auto;
+.title {
+      color:rgb(255,255,255);
+      text-align: center;
+      font-weight: bolder;
+      line-height: 2;
 }
 
+.container {
+      width: 81%;
+      margin-right: auto;
+      margin-left:  auto;
+}
+
+body {
+      background-color:rgb(54,54,54);
+      font-family: Georgia, serif;
+ }
+
 header,footer {
-     background-color: rgba(28,28,28,05);
+      background-color: rgba(28,28,28,05);
 	 padding: 3%
 } 
 h1 {
-     font-size: 2em;
+      font-size: 2em;
 }
 
 h2 {
-     font-size: 1.5em;
-}
-
-.title {
-     color:rgb(255,255,255);
-     text-align: center;
-     font-weight: bolder;
-     line-height: 2;
+      font-size: 1.5em;
 }
 
 p {
-     color:rgb(255,255,255);
-     line-height: 1.5;
+      color:rgb(255,255,255);
+      line-height: 1.5;
      
 }
+
 ul {
-     color:rgb(255,255,255);
-     line-height: 1.5;
+      color:rgb(255,255,255);
+      line-height: 1.5;
 }
+
+a:link {
+      color:rgb(55,55,105); 
+}
+
